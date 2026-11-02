@@ -1,3 +1,7 @@
-## big mark
+## Hello, I'm big mark.
 
-hi, i make software like everyone else on this website.
+I make software, just like everyone else on this website.
+I don't vibe code.
+
+#### Currently working on:
+- [BigEngine](https://github.com/39bigmarks/BigEngine) - A unique approach to a 2D and 3D game/software engine including multi-platform support and an editor.
