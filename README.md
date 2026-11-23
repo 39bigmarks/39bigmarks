@@ -1,6 +1,6 @@
 ## Hello, I'm big mark.
 
-I make software, just like everyone else on this website.<br>
+I make software, just like a lot of other people on this website.<br>
 I don't vibe code.
 
 #### Currently working on:
